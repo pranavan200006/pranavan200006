@@ -12,6 +12,8 @@
 
 - BSc (Hons) in Information Technology Specialising in Cyber Security
 
+-I'm currently learning CISSP/CEH
+
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab](https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab](https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab)
