@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab](https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab)
 
-- ⚡ Fun fact **More Interest in Sports like Swimming and Rugger**
+- ⚡ Fun fact **I am leaning Blockchain and Machine Leaning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
