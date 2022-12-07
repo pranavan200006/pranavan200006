@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranavan</h1>
 <h3 align="center">A passionate Cyber security engineer from Sri lanka</h3>
-<img align="right" alt="coding" width="400" src="https://mnstateitcoe.org/wp-content/uploads/2020/10/CSImageHackerCropped.jpg">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3o7btVkl2Goex9cugo/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavan200006&label=Profile%20views&color=0e75b6&style=flat" alt="pranavan200006" /> </p>
 
