@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning 
+- BSc (Hons) in Information Technology Specialising in Cyber Security
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab](https://www.linkedin.com/in/balasubramaniam-brahanawardhan-a7667a1ab)
 
